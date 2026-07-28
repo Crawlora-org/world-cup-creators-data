@@ -5,7 +5,7 @@ Per-nation profile of TikTok creators across the **48 nations qualified for the
 discoverable creators), **June 2026 snapshot**. Aggregate rollups only — counts
 and rates by nation, never individual creators.
 
-📊 **Study:** https://crawlora.net/blog/world-cup-creators-2026
+📊 **Study:** [https://crawlora.net/blog/world-cup-creators-2026](https://crawlora.net/blog/world-cup-creators-2026?utm_source=github&utm_medium=referral&utm_campaign=world-cup-creators-2026)
 
 ## Coverage
 
@@ -43,4 +43,4 @@ attribute **Crawlora** and link back to the study.
 ## Source
 
 Generated from the Crawlora TikTok creators API (`/datasets/creators/search`).
-Learn more: https://crawlora.net
+Learn more: [https://crawlora.net](https://crawlora.net?utm_source=github&utm_medium=referral&utm_campaign=world-cup-creators-2026)
