@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "World Cup 2026 TikTok Creators — Open Dataset"
+type: dataset
+authors:
+  - name: "Crawlora"
+    website: "https://crawlora.net"
+repository-code: "https://github.com/Crawlora-org/world-cup-creators-data"
+url: "https://crawlora.net/blog/world-cup-creators-2026"
+license: CC-BY-4.0
+date-released: "2026-06-23"
+abstract: >-
+  Per-nation profile of TikTok creators across the 48 nations qualified for the 2026
+  FIFA World Cup (June 2026 snapshot): median followers, reach, verified and contact
+  rates. Aggregate rollups only, never individual creators.
+keywords:
+  - tiktok
+  - world-cup
+  - football
+  - creator-economy
+  - dataset
+  - open-data
